@@ -1,0 +1,7 @@
+type Character {
+  name: String!
+}
+
+type User {
+  name: String!
+}

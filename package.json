@@ -1,0 +1,23 @@
+{
+  "name": "require-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kulakowka/require-graphql.git"
+  },
+  "keywords": ["graphql"],
+  "author": "Anton Kulakov kulakowka@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kulakowka/require-graphql/issues"
+  },
+  "homepage": "https://github.com/kulakowka/require-graphql#readme",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
