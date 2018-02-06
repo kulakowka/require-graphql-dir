@@ -1,10 +1,13 @@
 {
   "name": "require-graphql-dir",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "lint-staged": {
-    "src/**/*.{js,jsx,json,css}": ["prettier --write", "git add"]
+    "src/**/*.{js,jsx,json,css}": [
+      "prettier --write",
+      "git add"
+    ]
   },
   "engines": {
     "node": ">=9.3.0",
@@ -22,7 +25,9 @@
     "type": "git",
     "url": "git+ssh://git@github.com/kulakowka/require-graphql-dir.git"
   },
-  "keywords": ["graphql"],
+  "keywords": [
+    "graphql"
+  ],
   "author": "Anton Kulakov kulakowka@gmail.com",
   "license": "MIT",
   "bugs": {
