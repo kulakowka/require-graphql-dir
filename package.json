@@ -1,5 +1,5 @@
 {
-  "name": "require-graphql",
+  "name": "require-graphql-dir",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/kulakowka/require-graphql.git"
+    "url": "git+ssh://git@github.com/kulakowka/require-graphql-dir.git"
   },
   "keywords": ["graphql"],
   "author": "Anton Kulakov kulakowka@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kulakowka/require-graphql/issues"
+    "url": "https://github.com/kulakowka/require-graphql-dir/issues"
   },
-  "homepage": "https://github.com/kulakowka/require-graphql#readme",
+  "homepage": "https://github.com/kulakowka/require-graphql-dir#readme",
   "devDependencies": {
     "ava": "^0.25.0"
   }
